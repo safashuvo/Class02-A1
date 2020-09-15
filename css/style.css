@@ -91,3 +91,14 @@ background:#0d901dad;
 
 }
 
+a{
+	text-decoration: none;
+	font-size: 20px;
+	color:gray;
+	float: right;
+
+}
+
+a:hover{color:#000000; border-bottom:2px solid black;
+}
+.link{overflow: hidden; margin-top: 20px}
